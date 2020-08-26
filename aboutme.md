@@ -4,18 +4,25 @@ title: About me
 subtitle: Thanks for visit!
 ---
 
-こんにちは！
-
-H.N.です。
-
+こんにちは！  
+H.N.です。  
 ITが好きで、IT系の資格の取得が趣味です。
 
 技術系の備忘録を投稿をしていきます。
 
 ### 保有資格
 
-etc...
+応用情報技術者
+CCNA
+Java 8 Gold
+LPIC 300 303 304
 
 ### 目標資格
 
-etc...
+AWS Solution Architect Asociate
+JDLA G
+
+### 勉強中
+
+Scala
+Rust
