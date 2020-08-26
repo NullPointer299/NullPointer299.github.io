@@ -14,16 +14,17 @@ tags: [jekyll, blog]
 
 初回は、Jekyllを使って公開されたテーマからブログを始めた記事を書きます。
 
-私が使用した方法はgithubが使えれば事前知識は一切必要ありません。  
+私が使用した方法はgithubが使えれば事前知識は一切**必要ありません。**  
 使えなくてもチュートリアルを見れば誰でもできると思います。
 
 今回使ったテーマはこちら  
-https://github.com/daattali/beautiful-jekyll
+* [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 
 シンプルで見やすいのが気に入ったので選びました。
 
 テーマは以下のサイトで探しました。  
-https://jekyllthemes.io/free  
+* [jekyllthemes.io](https://jekyllthemes.io/free)
+
 どれも良さそうで、目移りしちゃいますね。
 
 テーマを選んだ当初は気づかなかったのですが、beautiful-jekyllでは  
