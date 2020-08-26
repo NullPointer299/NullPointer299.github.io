@@ -18,12 +18,12 @@ tags: [jekyll, blog]
 使えなくてもチュートリアルを見れば誰でもできると思います。
 
 今回使ったテーマはこちら  
-* [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+* [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll){:target="_blank"}
 
 シンプルで見やすいのが気に入ったので選びました。
 
 テーマは以下のサイトで探しました。  
-* [jekyllthemes.io](https://jekyllthemes.io/free)
+* [jekyllthemes.io](https://jekyllthemes.io/free){:target="_blank"}
 
 どれも良さそうで、目移りしちゃいますね。
 
