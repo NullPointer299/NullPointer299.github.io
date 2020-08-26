@@ -5,7 +5,7 @@ subtitle: Jekyllを使ってブログを始めてみた
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [jekyll, blog]
 ---
 
 ずっとブログを始めてみたいと思っていたけど、なかなか腰が上がらなくてタイミングを逃していた。  
