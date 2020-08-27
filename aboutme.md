@@ -23,6 +23,7 @@ ITが好きで、IT系の資格の取得が趣味です。
 * ネットワークスペシャリスト  
 * AWS Solution Architect Asociate  
 * JDLA G  
+* CCNP R&S
 
 ### 勉強中
 
