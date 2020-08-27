@@ -5,7 +5,7 @@ subtitle: 事前知識ゼロでできる！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [jekyll, blog]
+tags: [jekyll]
 ---
 
 こんにちは！  
