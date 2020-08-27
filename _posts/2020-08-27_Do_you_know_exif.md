@@ -8,4 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [image, exif]
 ---
 
-#作成中
+こんにちは！
+H.N.です。
+今回は画像ファイルに知らず知らずのうちに埋め込まれるexifについて書こうと思います。
+
+# 作成中
