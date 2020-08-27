@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Jekyllを使ってブログを始めてみた
-subtitle: 事前知識ゼロでできる！
+title: Jekyllを使ってブログを始めてみた！
+subtitle: 事前知識ゼロでできる！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [jekyll, blog]
 ---
 
-こんにちは！
+こんにちは！  
+H.N.です。  
+記念すべき初回の記事はこのブログを作成したことについて書こうと思います。
 
 ずっとブログを始めてみたいと思っていたけど、なかなか腰が上がらなくてタイミングを逃していました。  
 いざやってみると、ものの数時間で体裁整えるところまで終わったので驚きました。  
