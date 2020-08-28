@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 情報処理安全確保支援士試験を解いた話です！
+title: 情報処理安全確保支援士試験を解いた話！
 subtitle: 2回落ちてるけどやっぱり難しい！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
