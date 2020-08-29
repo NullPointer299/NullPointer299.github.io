@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AtCoderのBeginners Selectionを解いた話！
+title: AtCoder Beginners Selectionを解いた！
 subtitle: 競プロって楽しいけど難しい！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -60,7 +60,8 @@ object ABC0049C_Hakuchumu extends App {
   @tailrec
   def replacePattern(string: String, pattern: Seq[String]): String = {
     if (pattern.isEmpty) string
-    else replacePattern(string.replace(pattern.head, ""), pattern.filterNot(_ == pattern.head))
+    else replacePattern(string.replace(pattern.head, ""), 
+                          pattern.filterNot(_ == pattern.head))
   }
 ```
 
@@ -85,4 +86,4 @@ regex.findFirstIn(S) match {
 ですが解けた時の達成感は癖になるものがありますね！  
 AtCoderにはランクシステムがあるので、高いランクを目指して頑張りたいと思います！
 
-以上、「AtCoderのBeginners Selectionを解いた話！」でした。
+以上、「AtCoder Beginners Selectionを解いた！」でした。
