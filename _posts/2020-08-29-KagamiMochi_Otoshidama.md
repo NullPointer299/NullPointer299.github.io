@@ -20,6 +20,7 @@ H.N.です。
 この問題はお年玉のお札の枚数Nと合計金額Yが渡されるので、10000円札と5000円札と1000円札で組み合わせを出力する問題です。  
 条件が 1 < N < 2000 と全網羅しても十分制限時間内に収まるので、ループで全件検索する方法をとりました。
 
+---
 ```scala:ABC085C_Otoshidama.scala
 import scala.io.StdIn.readLine
 
@@ -37,6 +38,8 @@ object ABC085C_Otoshidama extends App {
   }
 }
 ```
+---
+
 思った以上に考えがまとまらなくて時間かかりました。。。  
 他の方の解かれているコードも似たようなアルゴリズムだったので安心しました。
 
@@ -44,6 +47,7 @@ object ABC085C_Otoshidama extends App {
 この問題は文字列Sが与えられ、Sが'dream' 'dreamer' 'erase' 'eraser'で構成されているかを判定する問題です。  
 Stringのreplace関数を使用して、対象の文字を空文字に置き換えて最終的に空文字であるかを判定するようにしました。
 
+---
 ```scala:ABC0049C_Hakuchumu.scala
 import scala.annotation.tailrec
 import scala.io.StdIn.readLine
@@ -64,8 +68,11 @@ object ABC0049C_Hakuchumu extends App {
                           pattern.filterNot(_ == pattern.head))
   }
 ```
+---
 
 この方法でも問題なく正解を出せるのですが、ネットで他の解答を調べてみると正規表現のほうがスマートにできそうでした。
+
+---
 ```scala:RegexVersion.scala
 val S = readLine()
 val regex = "^(dream|dreamer|erase|eraser)+$".r
@@ -75,6 +82,8 @@ regex.findFirstIn(S) match {
   case _ => println("NO")
 }
 ```
+---
+
 とてもわかりやすく簡潔ですね！！！  
 無駄に再起関数書くよりこちらのほうが断然見やすいです。
 
