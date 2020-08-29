@@ -759,7 +759,7 @@ footer .footer-custom-content {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: #cccccc;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
