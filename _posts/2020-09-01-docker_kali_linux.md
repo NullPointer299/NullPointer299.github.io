@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DockerでKali linuxをインストールした話！
-subtitle: 手軽に環境作れるが本当に便利！！！
+title: DockerでKali linuxをインストールした！
+subtitle: 手軽に環境作れるのが本当に便利！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
