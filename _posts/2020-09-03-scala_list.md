@@ -5,7 +5,7 @@ subtitle: バリュエーションが多くて覚えられない！！！
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [template]
+tags: [Scala]
 ---
 
 こんにちは！  
@@ -20,7 +20,7 @@ ArrayやSet、Mapでシリーズ化したら面白そうですね。
 ## List
 
 ListはArrayとよく似ていますが、Arrayはミュータブルなのに対してListは基本的にはイミュータブルです。  
-また、ランダムアクセスが可能なのでインデックスによるアクセスが高速に行えます。
+また、Arrayはランダムアクセスが可能なのでインデックスによるアクセスが高速に行えます。
 
 Arrayは非変なので、以下のコードを許容しません。
 
@@ -58,7 +58,7 @@ val list = List()
 
 Nilは空リストを表します。  
 ::（コンス）は x :: xs で x の後に xs のリストが続くことを表します。  
-::: （連結）は xs ::: ys は xs と ys の連結を表す。
+::: （連結）は xs ::: ys は xs と ys の連結を表します。
 
 ## 感想
 まだまだ便利な関数はたくさんあるけど、基本的なのはここら辺でしょうか？  
