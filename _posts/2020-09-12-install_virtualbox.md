@@ -17,7 +17,7 @@ Windows10を使用したくなり、手元のArch LinuxにVirtualboxをインス
 
 ## インストール
 Arch Wikiを参照しました。  
-[Virtualbox - ArchWiki](https://wiki.archlinux.jp/index.php/VirtualBox)
+[Virtualbox - ArchWiki](https://wiki.archlinux.jp/index.php/VirtualBox){:target="_blank"}
 
 virtualboxパッケージとlinux-zen-headerパッケージをインストールします。  
 virtualboxパッケージのインストール時にvirtualbox-host-modules-archかvirtualbox-host-dkmsを選択します。  
